@@ -107,6 +107,7 @@ The output should look something like:
   $ npm --version
   3.8.9
 
+If npm is too old, you can upgrade it on Linux by running `sudo npm -g install npm`.
 Once node/npm is installed, you can install the node dependencies and build the front-end assets:
 
 .. code-block:: bash
